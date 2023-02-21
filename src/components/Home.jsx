@@ -17,18 +17,19 @@ export const Home = () => {
           I am a web developer based in Dallas-Fort Worth, TX with a Bachelors
           in Automotive Engineering. I got into web development when looking for
           a career change and haven't looked back since. Currently I'm focused
-          on building responsive full-stack web applications. I look forward to
-          working with you!
+          on building responsive full-stack web applications.
         </p>
         <div>
           <button className="text-white group border-2 px-6 py-3 flex items-center hover:bg-pink-600 hover:border-pink-600">
             View My Work
             <span>
               <HiArrowNarrowRight className="ml-2 group-hover:rotate-90 duration-300" />
-              </span>
+            </span>
           </button>
         </div>
       </div>
     </div>
   );
 };
+
+export default Home;
