@@ -147,7 +147,7 @@ const Projects = () => {
               </div>
             </div>
           </div>
-        {/* Project 2 */}
+        {/* Project 6 */}
         <div
             style={{ backgroundImage: `url(${TeamProfile})` }}
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
