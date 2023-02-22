@@ -29,7 +29,7 @@ const Projects = () => {
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 duration-1000">
               <span className="text-2xl font-bold text-white tracking-wider">
                 MyFavouriteCrypto
               </span>
@@ -54,7 +54,7 @@ const Projects = () => {
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 duration-1000">
               <span className="text-2xl font-bold text-white tracking-wider">
                 The Triggered Gamer
               </span>
@@ -79,7 +79,7 @@ const Projects = () => {
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 duration-1000">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Just Another Text Editor
               </span>
@@ -104,7 +104,7 @@ const Projects = () => {
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 duration-1000">
               <span className="text-2xl font-bold text-white tracking-wider">
                 The Spectacular Tech Blog
               </span>
@@ -129,7 +129,7 @@ const Projects = () => {
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 duration-1000">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Weather Dashboard
               </span>
@@ -153,7 +153,7 @@ const Projects = () => {
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 duration-1000">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Team Profile Generator
               </span>
