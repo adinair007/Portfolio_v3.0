@@ -123,7 +123,7 @@ const Projects = () => {
             </div>
           </div>
 
-            {/* Project 5 */}
+          {/* Project 5 */}
           <div
             style={{ backgroundImage: `url(${Weather})` }}
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
@@ -147,8 +147,8 @@ const Projects = () => {
               </div>
             </div>
           </div>
-        {/* Project 6 */}
-        <div
+          {/* Project 6 */}
+          <div
             style={{ backgroundImage: `url(${TeamProfile})` }}
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -171,7 +171,6 @@ const Projects = () => {
               </div>
             </div>
           </div>
-
         </div>
       </div>
     </div>
