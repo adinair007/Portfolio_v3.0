@@ -1,7 +1,7 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
-import { Link } from 'react-scroll';
-import Typical from 'react-typical';
+import { Link } from "react-scroll";
+import Typical from "react-typical";
 
 export const Home = () => {
   return (
@@ -14,19 +14,19 @@ export const Home = () => {
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
           <Typical
-          loop={Infinity}
-          steps={[
-            "I Build Stuff",
-            1000,
-            "I'm a Full Stack Developer",
-            1000,
-           "I'm an Engineer",
-            1000,
-            "I Play Video Games",
-            1000,
-            "CR7 is the 🐐",
-            1000,
-          ]} 
+            loop={Infinity}
+            steps={[
+              "I Build Stuff",
+              1000,
+              "I'm a Full Stack Developer",
+              1000,
+              "I'm an Engineer",
+              1000,
+              "I Play Video Games",
+              1000,
+              "CR7 is the 🐐",
+              1000,
+            ]}
           />
         </h2>
         <p className="text-gray-300 py-4 max-w-[700px]">
@@ -38,7 +38,7 @@ export const Home = () => {
         <div>
           <button className="text-white group border-2 px-6 py-3 flex items-center hover:bg-pink-600 hover:border-pink-600">
             <Link to="projects" smooth={true} duration={500}>
-            View My Work
+              View My Work
             </Link>
             <span>
               <HiArrowNarrowRight className="ml-2 group-hover:rotate-90 duration-300" />

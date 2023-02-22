@@ -88,7 +88,7 @@ export const Navbar = () => {
           </Link>
         </li>
         <li className="py-6 text-4xl">
-          <Link onClick={handleClick} to='footer' smooth={true} duration={500}>
+          <Link onClick={handleClick} to="footer" smooth={true} duration={500}>
             Links
           </Link>
         </li>
