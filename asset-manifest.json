@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/portfolio/static/css/main.d1e83991.css",
+    "main.js": "/github.io/portfolio/static/js/main.a25e0af9.js",
+    "static/media/TTG.png": "/github.io/portfolio/static/media/TTG.43693eeb5d0ef6822dde.png",
+    "static/media/Weather.png": "/github.io/portfolio/static/media/Weather.66cba6af70fb5ca48fb6.png",
+    "static/media/Team_Profile.png": "/github.io/portfolio/static/media/Team_Profile.72b0b41000d1449ff81a.png",
+    "static/media/STG.png": "/github.io/portfolio/static/media/STG.595e39bf55929b1c75ce.png",
+    "static/media/Crypto.jpg": "/github.io/portfolio/static/media/Crypto.e41e6978098ca9515f89.jpg",
+    "static/media/JATE1.png": "/github.io/portfolio/static/media/JATE1.48a80ac5933874ecc332.png",
+    "static/media/react.png": "/github.io/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/github.io/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/github.io/portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/github.io/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/css.png": "/github.io/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logoDark.png": "/github.io/portfolio/static/media/logoDark.04561581a8d47ba941f9.png",
+    "static/media/mySql.png": "/github.io/portfolio/static/media/mySql.4676ad983d6bd3e9fac9.png",
+    "static/media/javascript.png": "/github.io/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/github.io/portfolio/index.html",
+    "main.d1e83991.css.map": "/github.io/portfolio/static/css/main.d1e83991.css.map",
+    "main.a25e0af9.js.map": "/github.io/portfolio/static/js/main.a25e0af9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e83991.css",
+    "static/js/main.a25e0af9.js"
+  ]
+}
