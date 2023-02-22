@@ -87,6 +87,11 @@ export const Navbar = () => {
             Contact
           </Link>
         </li>
+        <li className="py-6 text-4xl">
+          <Link onClick={handleClick} to='footer' smooth={true} duration={500}>
+            Links
+          </Link>
+        </li>
       </ul>
 
       {/* Social icons */}
