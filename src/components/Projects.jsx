@@ -1,8 +1,8 @@
 import React from "react";
 
-import Crypto from "../assets/Crypto.jpg";
+import Crypto from "../assets/Crypto.jpeg";
 import TTG from "../assets/TTG.png";
-import TeamProfile from "../assets/Team_Profile.png";
+import NoteTaker from "../assets/NoteTaker.png";
 import Weather from "../assets/Weather.png";
 import JATE from "../assets/JATE1.png";
 import STG from "../assets/STG.png";
@@ -34,12 +34,12 @@ const Projects = () => {
                 MyFavouriteCrypto
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://adinair007.github.io/My-Favorite_Crypto/">
                   <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-800 font-bold text-lg">
                     Webpage
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/adinair007/My-Favorite_Crypto">
                   <button className="text-center rounded-lg px-4 py-3 bg-black text-gray-300 font-bold text-lg">
                     Github
                   </button>
@@ -59,12 +59,12 @@ const Projects = () => {
                 The Triggered Gamer
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://the-triggered-gamer.herokuapp.com/">
                   <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-800 font-bold text-lg">
                     Webpage
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/adinair007/The_Triggered_Gamer">
                   <button className="text-center rounded-lg px-4 py-3 bg-black text-gray-300 font-bold text-lg">
                     Github
                   </button>
@@ -84,12 +84,12 @@ const Projects = () => {
                 Just Another Text Editor
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://just-another-text-editor007.herokuapp.com/">
                   <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-800 font-bold text-lg">
                     Webpage
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/adinair007/Just_Another_Text_Editor">
                   <button className="text-center rounded-lg px-4 py-3 bg-black text-gray-300 font-bold text-lg">
                     Github
                   </button>
@@ -109,12 +109,12 @@ const Projects = () => {
                 The Spectacular Tech Blog
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://the-spectacular-tech-blog.herokuapp.com/">
                   <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-800 font-bold text-lg">
                     Webpage
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/adinair007/The_Spectacular_Tech_Blog">
                   <button className="text-center rounded-lg px-4 py-3 bg-black text-gray-300 font-bold text-lg">
                     Github
                   </button>
@@ -134,12 +134,12 @@ const Projects = () => {
                 Weather Dashboard
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://adinair007.github.io/Weather_Dashboard/">
                   <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-800 font-bold text-lg">
                     Webpage
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/adinair007/Weather_Dashboard">
                   <button className="text-center rounded-lg px-4 py-3 bg-black text-gray-300 font-bold text-lg">
                     Github
                   </button>
@@ -149,21 +149,21 @@ const Projects = () => {
           </div>
           {/* Project 6 */}
           <div
-            style={{ backgroundImage: `url(${TeamProfile})` }}
+            style={{ backgroundImage: `url(${NoteTaker})` }}
             className="group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100 duration-1000">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Team Profile Generator
+                Note Taker
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://notetaker-007.herokuapp.com/">
                   <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-800 font-bold text-lg">
                     Webpage
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/adinair007/Note_Taker">
                   <button className="text-center rounded-lg px-4 py-3 bg-black text-gray-300 font-bold text-lg">
                     Github
                   </button>

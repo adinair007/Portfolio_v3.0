@@ -16,13 +16,13 @@ export const Home = () => {
           <Typical
             loop={Infinity}
             steps={[
-              "I Build Stuff",
+              "I Build Stuff 🛠️",
               1000,
               "I'm a Full Stack Developer",
               1000,
               "I'm an Engineer",
               1000,
-              "I Play Video Games",
+              "I Play Video Games 🎮",
               1000,
               "CR7 is the 🐐",
               1000,
