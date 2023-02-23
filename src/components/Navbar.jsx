@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-scroll";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-// import { BsFillPersonLinesFill } from "react-icons/bs";
+import { BsFillPersonLinesFill } from "react-icons/bs";
 import Logo from "../assets/logoDark.png";
 
 export const Navbar = () => {
@@ -121,14 +121,14 @@ export const Navbar = () => {
               Email <HiOutlineMail size={30} />
             </a>
           </li>
-          {/* <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-600">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://drive.google.com/file/d/1LTrfFkLDZS3mirvLmeL7ajnPk5kh4cFe/view?usp=sharing"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
-          </li> */}
+          </li>
         </ul>
       </div>
     </div>

@@ -1,6 +1,7 @@
 import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
+import { BsFillPersonLinesFill } from "react-icons/bs";
 
 const Footer = () => {
   return (
@@ -30,6 +31,12 @@ const Footer = () => {
             href="mailto:adinair.in@outlook.com"
           >
             <HiOutlineMail size={30} className="bg-green-600" />
+          </a>
+          <a
+            className="hover:scale-110 duration-500 flex justify-between items-center pl-5 w-full  text-gray-300"
+            href="https://drive.google.com/file/d/1LTrfFkLDZS3mirvLmeL7ajnPk5kh4cFe/view?usp=sharing"
+          >
+            <BsFillPersonLinesFill size={30} className="bg-slate-600" />
           </a>
         </div>
         <p className="py-8 text-gray-300 font-bold">Made by Aditya Nair 🦖</p>
