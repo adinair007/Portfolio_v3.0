@@ -1,6 +1,6 @@
 # Portfolio_v3.0 
 
-Deployed Link: https://adinair007.github.io/Portfolio_v3.0/
+Deployed Link: https://adinair007.github.io/adityas-portfolio/
 
 ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
