@@ -10,7 +10,7 @@ const Footer = () => {
       className="flex flex-col items-center justify-between px-6 py-4 bg-black"
     >
       <div className="invisible flex flex-col items-center justify-between px-6 py-4 bg-black lg:visible">
-        <p className="text-gray-300 font-bold">Made by Aditya Nair 🦖</p>
+        <p className="text-pink-600 font-bold">Made by Aditya Nair 🦖</p>
       </div>
       <div className="visible flex flex-col items-center justify-between  bg-black lg:invisible">
         <div className="flex -mx-2">
@@ -39,7 +39,7 @@ const Footer = () => {
             <BsFillPersonLinesFill size={30} className="bg-slate-600" />
           </a>
         </div>
-        <p className="py-8 text-gray-300 font-bold">Made by Aditya Nair 🦖</p>
+        <p className="py-8 text-pink-600 font-bold">Made by Aditya Nair 🦖</p>
       </div>
     </div>
   );
