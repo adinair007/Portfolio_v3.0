@@ -16,7 +16,7 @@ Deployed Link: https://adinair007.github.io/adityas-portfolio/
   [MIT](https://opensource.org/licenses/MIT)
 
 ## Description
-  The ultimate portfolio created with React
+  The ultimate portfolio created with React and Tailwind
 
   
 ## Screenshots
