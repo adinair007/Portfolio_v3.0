@@ -1,4 +1,4 @@
-# Portfolio_v3.0 
+# Portfolio 
 
 Deployed Link: https://adinair007.github.io/adityas-portfolio/
 
