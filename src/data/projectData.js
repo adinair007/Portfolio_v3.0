@@ -24,7 +24,7 @@ export const projectData = [
   },
 
   {
-    id: 3
+    id: 3,
     name: "MyFavouriteCrypto",
     image: Crypto,
     webpage: "https://adinair007.github.io/My-Favorite_Crypto/",
