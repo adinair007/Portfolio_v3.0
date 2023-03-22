@@ -4,14 +4,15 @@ import NoteTaker from "../assets/NoteTaker.png";
 import Weather from "../assets/Weather.png";
 import JATE from "../assets/JATE1.png";
 import STG from "../assets/STG.png";
+import Mojave from "../assets/Mojave.png"
 
 export const projectData = [
   {
     id: 1,
-    name: "MyFavouriteCrypto",
-    image: Crypto,
-    webpage: "https://adinair007.github.io/My-Favorite_Crypto/",
-    github: "https://github.com/adinair007/My-Favorite_Crypto",
+    name: "MOJAVE",
+    image: Mojave,
+    webpage: "https://mojave-store.herokuapp.com/",
+    github: "https://github.com/adinair007/Mojave",
   },
 
   {
@@ -23,11 +24,11 @@ export const projectData = [
   },
 
   {
-    id: 3,
-    name: "Just Another Text Editor",
-    image: JATE,
-    webpage: "https://just-another-text-editor007.herokuapp.com/",
-    github: "https://github.com/adinair007/Just_Another_Text_Editor",
+    id: 3
+    name: "MyFavouriteCrypto",
+    image: Crypto,
+    webpage: "https://adinair007.github.io/My-Favorite_Crypto/",
+    github: "https://github.com/adinair007/My-Favorite_Crypto",
   },
 
   {
