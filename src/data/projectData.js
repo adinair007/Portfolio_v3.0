@@ -4,7 +4,7 @@ import NoteTaker from "../assets/NoteTaker.png";
 import Weather from "../assets/Weather.png";
 import JATE from "../assets/JATE1.png";
 import STG from "../assets/STG.png";
-import Mojave from "../assets/Mojave.png"
+import Mojave from "../assets/MojaveLogo2.png";
 
 export const projectData = [
   {
@@ -17,10 +17,10 @@ export const projectData = [
 
   {
     id: 2,
-    name: "The Triggered Gamer",
-    image: TTG,
-    webpage: "https://the-triggered-gamer.herokuapp.com/",
-    github: "https://github.com/adinair007/The_Triggered_Gamer",
+    name: "Just Another Text Editor",
+    image: JATE,
+    webpage: "https://just-another-text-editor007.herokuapp.com",
+    github: "https://github.com/adinair007/Just_Another_Text_Editor",
   },
 
   {
